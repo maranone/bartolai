@@ -1,0 +1,28 @@
+{
+  "info": {
+    "stage": {
+      "address": 16776396,
+      "type": "|d1"
+    },
+    "health": {
+      "address": 16773032,
+      "type": ">u2"
+    },
+    "score": {
+      "address": 16773013,
+      "type": ">d4"
+    },
+    "map_x": {
+      "address": 16772866,
+      "type": ">u2"
+    },
+    "map_y": {
+      "address": 16772870,
+      "type": ">u2"
+    },
+    "time": {
+      "address": 16776251,
+      "type": ">d2"
+    }
+  }
+}
